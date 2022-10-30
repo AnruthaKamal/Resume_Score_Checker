@@ -41,7 +41,7 @@ on scale of 100 </p>
 
 else:
     st.title('Get Started ... ')
-    df = pd.read_csv('D:\MSc DATA SCIENCE\sem 5\ML project\cleanedDataJob.csv')
+    df = pd.read_csv('cleanedDataJob.csv')
     idx = {}
     cnt = 0
     for i in df['Job ']:
