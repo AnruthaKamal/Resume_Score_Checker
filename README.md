@@ -41,11 +41,11 @@ Resume Score Checker is an application that analyzes a job seeker's resume and p
 ## Usage
 To use the Resume Score Checker, follow the steps below:
 
->> Clone the repository: git clone https://github.com/AnruthaKamal/Resume_Score_Checker.git
->  Install the required packages: pip install -r requirements.txt
-> Run the application: python app.py
-> Open a web browser and navigate to http://localhost:5000/
->> Upload your resume and job description, and the application will provide you with a score and suggestions for improvement.
+> Clone the repository: git clone https://github.com/AnruthaKamal/Resume_Score_Checker.git <br>
+> Install the required packages: pip install -r requirements.txt<br>
+> Run the application: python app.py<br>
+> Open a web browser and navigate to http://localhost:5000/<br>
+> Upload your resume and job description, and the application will provide you with a score and suggestions for improvement.
 
 ## Contributing
 We welcome contributions to Resume Score Checker! If you have any suggestions or ideas for new features, please open an issue or submit a pull request.
