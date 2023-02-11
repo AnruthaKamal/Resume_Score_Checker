@@ -2,7 +2,7 @@
 
 # Resume Score Checker
 ## Introduction
-Resume Score Checker is an application that analyzes a job seeker's resume and provides a score based on how well it matches the job requirements. Resume Score Checker is designed to scan a job seeker resume template for work experience, skills, education, and other relevant information. It determines if the resume is a good match for the position/Job choosed by the user. It evaluates the resume with the Job Description on scale of 100. This tool can be helpful for job seekers to understand how well their resume is aligned with the job they are applying for and make any necessary changes to improve their chances of getting hired.
+Resume Score Checker is an application that analyzes a job seeker's resume and provides a score based on how well it matches the job requirements. Resume Score Checker is designed to scan a job seeker resume template for work experience, skills, education, and other relevant information. It determines if the resume is a good match for the position/Job choosed by the user. It evaluates the resume with the Job Description on scale of 100. This tool can be helpful for job seekers to understand how well their resume is aligned with the job they are applying for.
 
 ## Features
 1. Analyze resumes based on job requirements
