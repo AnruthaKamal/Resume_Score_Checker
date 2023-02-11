@@ -45,7 +45,7 @@ To use the Resume Score Checker, follow the steps below:
 > Install the required packages: pip install -r requirements.txt<br>
 > Run the application: python app.py<br>
 > Open a web browser and navigate to http://localhost:5000/<br>
-> Upload your resume and job description, and the application will provide you with a score and suggestions for improvement.
+<emp> Upload your resume and job description, and the application will provide you with a score and suggestions for improvement.</emp>
 
 ## Contributing
 We welcome contributions to Resume Score Checker! If you have any suggestions or ideas for new features, please open an issue or submit a pull request.
